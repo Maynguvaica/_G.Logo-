@@ -1,0 +1,1 @@
+_G.Logo = "hellomoinguoi" -- Enter Your ID Image loadstring(Game:HttpGet"https://raw.githubusercontent.com/ImTienNguyenZ/NguyenTienSimpRose/main/NguyenMinhTienLoader")()
